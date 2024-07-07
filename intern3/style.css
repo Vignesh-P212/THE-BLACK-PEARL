@@ -1,0 +1,25 @@
+/* Custom CSS for styling */
+
+/* Adjust carousel height */
+.carousel-item {
+    height: 300px; /* Adjust as needed */
+}
+
+/* Form styling */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    border-color: #ddd;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
